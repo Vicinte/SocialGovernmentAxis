@@ -1,2 +1,2 @@
 # 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Might, Liberty, Tradition, Wealth, Peace, Authority, and Progress.
+SocialGovernmentAxis quiz exists to identify where you land on a scale of progressive to conservative and authoritarian to libertarian
